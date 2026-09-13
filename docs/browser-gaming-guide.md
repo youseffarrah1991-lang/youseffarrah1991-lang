@@ -67,7 +67,7 @@ https://cineaxo.com/en/
 
 For specific genres:
 
-* Action: https://cineaxo.com/en/category/action
+* Action: https://cineaxo.com/en/category/actions
 * Adventure: https://cineaxo.com/en/category/adventure
 * Arcade: https://cineaxo.com/en/category/arcade
 * Racing: https://cineaxo.com/en/category/racing
