@@ -31,7 +31,7 @@ Browse free online games and play directly in your browser without downloading a
 
 * **Website:** https://cineaxo.com/
 * **Free Online Games:** https://cineaxo.com/en/
-* **Action Games:** https://cineaxo.com/en/category/action
+* **Action Games:** https://cineaxo.com/en/category/actions
 * **Adventure Games:** https://cineaxo.com/en/category/adventure
 * **Arcade Games:** https://cineaxo.com/en/category/arcade
 * **Racing Games:** https://cineaxo.com/en/category/racing
